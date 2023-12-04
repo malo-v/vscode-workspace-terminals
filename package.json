@@ -3,7 +3,7 @@
 	"displayName": "Workspace Terminals",
 	"description": "Manage terminals in multi-root workspaces",
 	"version": "0.3.2",
-	"publisher": "joshx",
+	"publisher": "malov",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
